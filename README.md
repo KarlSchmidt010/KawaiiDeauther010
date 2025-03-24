@@ -24,10 +24,6 @@ Dependencies will be automatically installed.
     $ sudo KawaiiDeauther.sh
 
 
-Demo
-=
-[![asciicast](https://asciinema.org/a/294970.png)](https://asciinema.org/a/294970?autoplay=1&loop=1)
-
 
 Tested on
 =
@@ -51,9 +47,6 @@ Features
 - Spam many fake AP
 
 
-Contact
-=
-- Twitter: @4wsec_
 
 
 License
@@ -63,4 +56,4 @@ GNU General Public License v3.0
 
 Copyright
 =
-Kawaii Deauther is made with ❤️ by Arya Narotama - Anon Cyber Team - 2020
+Kawaii Deauther is made with ❤️ by james russell - lizerd - 2024
