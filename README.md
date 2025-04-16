@@ -19,8 +19,8 @@ Installation
 =
 Dependencies will be automatically installed.
 
-    $ git clone https://github.com/aryanrtm/KawaiiDeauther
-    $ cd KawaiiDeauther && sudo ./install.sh
+    $ git clone https://github.com/KarlSchmidt010/KawaiiDeauther010.git
+    $ cd KawaiiDeauther010 && sudo ./install.sh
     $ sudo ./KawaiiDeauther.sh
 
 
